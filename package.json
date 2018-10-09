@@ -1,0 +1,31 @@
+{
+  "name": "yumu-show-ip",
+  "version": "0.0.1",
+  "description": "输出ip地址",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supervisor app.js",
+    "start": "node app.js"
+  },
+  "bin": {
+    "ip": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WisestCoder/show-ip"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/WisestCoder/show-ip#readme",
+  "keywords": [
+    "show-ip",
+    "ip"
+  ],
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
