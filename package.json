@@ -1,5 +1,5 @@
 {
-  "name": "yumu-show-ip",
+  "name": "@wisestcoder/show-ip",
   "version": "0.0.1",
   "description": "输出ip地址",
   "main": "index.js",
