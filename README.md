@@ -4,7 +4,7 @@
 ### 安装
 
 ```bash
-npm install yumu-show-ip -g
+npm install @wisestcoder/show-ip -g
 ```
 
 ### 使用
